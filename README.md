@@ -12,10 +12,4 @@
 
 *Проверить ссылки в шапке, должны быть абсолютными
 
-![GitHub Logo](-0.png)
-Format: ![Alt Text](uasdarl)
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/-0.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](-0.png "image_tooltip")
+![Image](-0.png)
